@@ -1,0 +1,33 @@
+{
+    "students": [
+        {
+            "cin": "8f4aa769-7841-424c-a817-a6b50ae75c66",
+            "name":"Hamadi",
+            "fname":"Ines",
+            "class":"5 Génie Informatique",
+            "date-of-birth":"15/01/1996"
+        },
+        {
+            "id": "37fc60d7-65d0-4a08-a3d3-980086102e71",
+            "name":"Ben abdallah",
+            "fname":"Ahmed",
+            "class":"5 Génie Industruel",
+            "date-of-birth":"05/04/1996"
+        },
+        {
+            "id": "a1675299-1373-4d4b-b887-61f006a61f93",
+            "name":"Batikh",
+            "fname":"Oumayma",
+            "class":"5 Biologie",
+            "date-of-birth":"24/03/1996"
+        },
+        {
+            "id": "c63072f8-35bb-4994-82d9-a773b811ba61",
+            "name":"Essafi",
+            "fname":"Julia",
+            "class":"5 Medecine",
+            "date-of-birth":"13/01/1997"
+        }
+    ]
+  }
+  
