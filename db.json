@@ -27,6 +27,13 @@
             "fname":"Julia",
             "class":"5 Medecine",
             "date-of-birth":"13/01/1997"
+        },
+        {
+            "id": "c63072f8-35bb-4994-82d9-a773b811ba61",
+            "name":"Essafi",
+            "fname":"Lilia",
+            "class":"5 Medecine",
+            "date-of-birth":"23/07/1997"
         }
     ]
   }
